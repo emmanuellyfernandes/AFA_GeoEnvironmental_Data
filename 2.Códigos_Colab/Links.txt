@@ -1,1 +1,2 @@
-
+Código 1: https://colab.research.google.com/drive/12__-J967y_-zXnoAk6FC7rB0qpbCATLm?usp=sharing
+Código 2: https://colab.research.google.com/drive/1K9FTJovZeFtFDRag91uFvCtxaSwppB_a?usp=sharing
