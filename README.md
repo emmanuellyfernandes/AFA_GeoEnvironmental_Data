@@ -1,7 +1,7 @@
 # AFA_GeoEnvironmental_Data
 Este repositório contém códigos para análise e visualização de dados ambientais da Academia da Força Aérea (AFA) referentes ao período de 2019 a 2024. Inclui um script para geração de gráficos do Índice de Vegetação por Diferença Normalizada (NDVI) e outro para análise dos dados de precipitação mensal. 
 
-##Código 1 – Variação Sazonal do NDVI (2019–2024)
+## Código 1 – Variação Sazonal do NDVI (2019–2024)
 #Nome do arquivo: AFA_NDVI_VeraoInverno.ipynb
 
 # Objetivo
@@ -32,7 +32,7 @@ Gráfico de linha exibindo a variação dos valores médios de NDVI entre verão
 
 
 
-##Código 2 – Análise da Precipitação Mensal (2019–2024)
+## Código 2 – Análise da Precipitação Mensal (2019–2024)
 # Nome do arquivo: AFA_Precipitação.ipynb
 
 # Objetivo
@@ -68,7 +68,7 @@ Gráfico de linha representando a precipitação acumulada mensalmente no ponto 
 
 
 
-##Integração entre os Códigos
+## Integração entre os Códigos
 
 A análise combinada dos dois scripts proporciona uma visão abrangente da interação entre clima e vegetação na AFA:
 
