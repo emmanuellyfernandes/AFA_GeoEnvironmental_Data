@@ -4,17 +4,17 @@ Este repositório contém códigos para análise e visualização de dados ambie
 ## Código 1 – Variação Sazonal do NDVI (2019–2024)
 #Nome do arquivo: AFA_NDVI_VeraoInverno.ipynb
 
-# Objetivo
+#Objetivo
 
 Analisar a variação sazonal da vegetação por meio do índice NDVI (Normalized Difference Vegetation Index), comparando os períodos de verão e inverno na área da AFA, no período de 2019 a 2024.
 
-# Fonte dos Dados
+#Fonte dos Dados
 
 -Imagens de satélite: Sentinel-2 Surface Reflectance (Coleção COPERNICUS/S2_SR), via Google Earth Engine (GEE)
 
 -Área de estudo: shapefile local da AFA
 
-# Etapas Principais
+#Etapas Principais
 
 - Importação das bibliotecas necessárias (geemap, geopandas, etc.);
 
@@ -26,27 +26,27 @@ Analisar a variação sazonal da vegetação por meio do índice NDVI (Normalize
 
 - Armazenamento dos dados em um DataFrame e criação de gráficos comparativos.
 
-# Resultado Esperado
+#Resultado Esperado
 
 Gráfico de linha exibindo a variação dos valores médios de NDVI entre verão e inverno ao longo dos anos, evidenciando padrões sazonais e mudanças na cobertura vegetal.
 
 
 
 ## Código 2 – Análise da Precipitação Mensal (2019–2024)
-# Nome do arquivo: AFA_Precipitação.ipynb
+#Nome do arquivo: AFA_Precipitação.ipynb
 
-# Objetivo
+#Objetivo
 
 Extrair e analisar dados de precipitação mensal entre 2019 e 2024 para a área da AFA, com base na coleção CHIRPS do Google Earth Engine (GEE), utilizando como referência o centróide da região de interesse (AFA).
 
-# Fonte dos Dados
+#Fonte dos Dados
 
 - Precipitação: Coleção UCSB-CHG/CHIRPS/DAILY (GEE)
 
 - Área de estudo: shapefile da AFA, reprojetado para EPSG:4326
 
 
-# Etapas Principais
+#Etapas Principais
 
 - Instalação e importação das bibliotecas;
 
@@ -62,7 +62,7 @@ Extrair e analisar dados de precipitação mensal entre 2019 e 2024 para a área
 
 - Armazenamento dos resultados em DataFrame e visualização em gráfico de linha.
 
-# Resultado Esperado
+#Resultado Esperado
 
 Gráfico de linha representando a precipitação acumulada mensalmente no ponto central da área de estudo, permitindo identificar padrões climáticos, sazonalidade ou anomalias.
 
